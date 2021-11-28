@@ -64,7 +64,7 @@ const Contact = () => {
                     <img src={instagram} alt='social' />
                 </a>
                 <a
-                    href='https://medium.com/@madhavbahl'
+                    href='https://portfoliobymayank.netlify.app/#/'
                     className='social-icon'
                     target="_blank"
                 >

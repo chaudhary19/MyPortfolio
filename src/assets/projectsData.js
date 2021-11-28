@@ -34,6 +34,13 @@ const projectsData = [
         imageUrl: 'https://github.com/chaudhary19/TodoApp/blob/main/todo.png?raw=true',
         projectUrl: 'https://todoappbymayank.netlify.app/',
     },
+    {
+        projectName: 'Portfolio',
+        projectDescription:
+            'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make. So, here I bring my own portfolio using ReactJS.',
+        imageUrl: 'https://github.com/chaudhary19/MyPortfolio/blob/main/portfolio.png?raw=true',
+        projectUrl: 'https://portfoliobymayank.netlify.app/#/',
+    },
 ];
 
 export default projectsData;
